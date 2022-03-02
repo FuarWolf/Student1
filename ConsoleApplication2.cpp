@@ -1,5 +1,6 @@
 ﻿#include <iostream>
 #include <string>
+//Сделал Олег
 using namespace std;
 class Student {
 private:
